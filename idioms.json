@@ -1,0 +1,83 @@
+{
+  "grade": 4,
+  "semester": "上册",
+  "source": "上海小学语文课本",
+  "categories": [
+    {
+      "name": "描写自然景观",
+      "idioms": [
+        {"word": "若隐若现", "pinyin": "ruò yǐn ruò xiàn", "meaning": "形容隐隐约约，看不清楚"},
+        {"word": "人山人海", "pinyin": "rén shān rén hǎi", "meaning": "形容聚集的人极多"},
+        {"word": "昂首东望", "pinyin": "áng shǒu dōng wàng", "meaning": "抬头向东方望去"},
+        {"word": "人声鼎沸", "pinyin": "rén shēng dǐng fèi", "meaning": "人群发出的声音像水在锅里沸腾一样，形容人声嘈杂喧闹"},
+        {"word": "水天相接", "pinyin": "shuǐ tiān xiāng jiē", "meaning": "形容水天共融的景象"},
+        {"word": "风平浪静", "pinyin": "fēng píng làng jìng", "meaning": "形容水面平静，没有风浪"},
+        {"word": "横贯江面", "pinyin": "héng guàn jiāng miàn", "meaning": "横着穿过江面"},
+        {"word": "齐头并进", "pinyin": "qí tóu bìng jìn", "meaning": "形容并排前进"},
+        {"word": "漫天卷地", "pinyin": "màn tiān juǎn dì", "meaning": "形容势头非常大，铺天卷地而来"},
+        {"word": "春深似海", "pinyin": "chūn shēn sì hǎi", "meaning": "春天像海一样深，形容春意浓厚"},
+        {"word": "繁花似锦", "pinyin": "fán huā sì jǐn", "meaning": "花木繁盛像锦缎一样"},
+        {"word": "归心似箭", "pinyin": "guī xīn sì jiàn", "meaning": "形容回家的心情非常急切"},
+        {"word": "光阴似箭", "pinyin": "guāng yīn sì jiàn", "meaning": "时间像箭一样飞逝，形容时间过得快"}
+      ]
+    },
+    {
+      "name": "描写人物状态",
+      "idioms": [
+        {"word": "文思敏捷", "pinyin": "wén sī mǐn jié", "meaning": "指写文章的灵感和思路非常顺畅"},
+        {"word": "聪明过人", "pinyin": "cōng míng guò rén", "meaning": "形容人资质颖慧，超过一般人"},
+        {"word": "青出于蓝", "pinyin": "qīng chū yú lán", "meaning": "比喻学生超过老师或后人胜过前人"},
+        {"word": "一鸣惊人", "pinyin": "yī míng jīng rén", "meaning": "比喻平时没有突出的表现，一下子做出惊人的成绩"},
+        {"word": "桃李争艳", "pinyin": "táo lǐ zhēng yàn", "meaning": "形容春光美丽，桃花和李花争相开放"},
+        {"word": "后继有人", "pinyin": "hòu jì yǒu rén", "meaning": "有后人继承前人的事业"},
+        {"word": "呆似木鸡", "pinyin": "dāi sì mù jī", "meaning": "形容因恐惧或惊讶而发呆"},
+        {"word": "好语似珠", "pinyin": "hǎo yǔ sì zhū", "meaning": "优美的话语像珠子一样连贯"},
+        {"word": "口似悬河", "pinyin": "kǒu sì xuán hé", "meaning": "形容说话滔滔不绝"},
+        {"word": "皎阳似火", "pinyin": "jiǎo yáng sì huǒ", "meaning": "形容太阳像火一样炎热"}
+      ]
+    },
+    {
+      "name": "描写人物情感",
+      "idioms": [
+        {"word": "兴高采烈", "pinyin": "xìng gāo cǎi liè", "meaning": "形容十分高兴的模样"},
+        {"word": "垂头丧气", "pinyin": "chuí tóu sàng qì", "meaning": "形容因失败而情绪消沉"},
+        {"word": "目瞪口呆", "pinyin": "mù dèng kǒu dāi", "meaning": "形容因吃惊而发愣的状态"},
+        {"word": "心急如焚", "pinyin": "xīn jí rú fén", "meaning": "心里焦急得如同火烧一般"},
+        {"word": "喜出望外", "pinyin": "xǐ chū wàng wài", "meaning": "碰到意外的好事而格外高兴"}
+      ]
+    },
+    {
+      "name": "含数字或反义词",
+      "idioms": [
+        {"word": "一心一意", "pinyin": "yī xīn yī yì", "meaning": "心思专注，没有其他杂念"},
+        {"word": "三心二意", "pinyin": "sān xīn èr yì", "meaning": "拿不定主意"},
+        {"word": "东倒西歪", "pinyin": "dōng dǎo xī wāi", "meaning": "形容歪歪斜斜"},
+        {"word": "南辕北辙", "pinyin": "nán yuán běi zhè", "meaning": "行动和目的相反"},
+        {"word": "前赴后继", "pinyin": "qián fù hòu jì", "meaning": "前面的人冲上去，后面的人跟上来"},
+        {"word": "前俯后继", "pinyin": "qián fǔ hòu jì", "meaning": "前面的人弯下腰，后面的人跟上来"},
+        {"word": "左推右挡", "pinyin": "zuò tuī yòu dǎng", "meaning": "左边推，右边挡，形容应付忙乱"},
+        {"word": "承前启后", "pinyin": "chéng qián qǐ hòu", "meaning": "继承前人的事业，开创新的未来"},
+        {"word": "舍近求远", "pinyin": "shě jìn qiú yuǎn", "meaning": "舍弃近的，去求远的"},
+        {"word": "扬长避短", "pinyin": "yáng cháng bì duǎn", "meaning": "发挥长处，避免短处"},
+        {"word": "弃旧图新", "pinyin": "qì jiù tú xīn", "meaning": "抛弃旧的，追求新的"}
+      ]
+    },
+    {
+      "name": "其他常用成语",
+      "idioms": [
+        {"word": "引人注意", "pinyin": "yǐn rén zhù yì", "meaning": "吸引人的注意"},
+        {"word": "毫不可惜", "pinyin": "háo bù kě xī", "meaning": "一点也不可惜"},
+        {"word": "随遇而安", "pinyin": "suí yù ér ān", "meaning": "能适应各种环境"},
+        {"word": "鲜花盛开", "pinyin": "xiān huā shèng kāi", "meaning": "花朵开放"},
+        {"word": "绿树成阴", "pinyin": "lǜ shù chéng yīn", "meaning": "树木长成绿荫"},
+        {"word": "鲜果飘香", "pinyin": "xiān guǒ piāo xiāng", "meaning": "水果成熟飘香"},
+        {"word": "狂风", "pinyin": "kuáng fēng", "meaning": "非常大的风"},
+        {"word": "世外桃源", "pinyin": "shì wài táo yuán", "meaning": "环境幽静，生活安逸的地方"},
+        {"word": "青翠欲滴", "pinyin": "qīng cuì yù dī", "meaning": "草木茂盛润泽，颜色浓郁得好像要滴下来一样"},
+        {"word": "争先恐后", "pinyin": "zhēng xiān kǒng hòu", "meaning": "争着向前，唯恐落后"},
+        {"word": "争执", "pinyin": "zhēng zhí", "meaning": "争论中各持己见，不肯相让"}
+      ]
+    }
+  ],
+  "total": 54
+}
