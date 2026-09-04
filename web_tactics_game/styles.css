@@ -1,0 +1,35 @@
+/* styles.css - 简单布局 */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: #111;
+  color: #eee;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 24px;
+}
+
+.game-wrap {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+}
+
+canvas {
+  background: #1e1e1e;
+  border: 4px solid #333;
+  border-radius: 6px;
+}
+
+.info {
+  min-width: 160px;
+  padding: 8px;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.03);
+  border-radius: 6px;
+}
+
+h1 { margin: 0 0 8px 0; }
+
+p { margin: 0 0 12px 0; color: #bbb; }
